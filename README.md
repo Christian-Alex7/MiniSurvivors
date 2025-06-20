@@ -20,9 +20,10 @@ MiniSurvivors é um jogo Android desenvolvido como trabalho acadêmico no curso 
 ## 📸 Captura de Tela
 
 Adicione aqui uma imagem do jogo rodando:
+## 📸 Captura de Tela
 
-```markdown
 ![Tela do jogo](docs/screenshot.png)
+
 ```
 
 ## 👨‍💻 Autor
